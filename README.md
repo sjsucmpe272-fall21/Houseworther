@@ -1,6 +1,6 @@
 # Team-Project-5
 
-1. **California forest fire detection**
+1. **California forest fire prediction**
 
 
 Introduction:
