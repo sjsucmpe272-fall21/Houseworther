@@ -1,6 +1,6 @@
 # Team-Project-5
 
-**California forest fire prediction**
+**California forest fire detection**
 
 
 Introduction:
@@ -25,6 +25,32 @@ Dataset links
 https://catalog.data.gov/dataset/large-fire-perimeters-5000-acres
 https://catalog.data.gov/dataset/small-fire-perimeters-5000-acres
 https://www.timeanddate.com/weather/usa/chico/historic?month=11&year=2018
+
+
+**Stocks Reader**
+
+Introduction :
+
+Stocks and shares enthusiasts often face difficulties of reading the trajectories of the stocks before and after they invest. This void must be filled by an application that shall monitor these trajectories to give a user better perspective before/after investing.
+
+Abstract:
+
+The stock market gives investors an opportunity to share in the profits of major corporations. While stocks can be risky, they also provide small and large investors the opportunity to gain wealth. Given the opportunistic trading strategies that sophisticated investors use, professional investors can generate wealth even through changing market cycles. 
+
+These strategies are based on legacy data of a stock and current mood of the market. To assist and bolster efforts ‘Stocks Reader’ can be an efficient tool. Fast , reliable and hands on access to legacy data along with measure of growth expected, can induce a sense of assurance also in a naive investor.
+
+
+Approach:
+1. Data shall be fetched from several reliable sites for the corresponding companies.
+2. Machine Learning algorithms will be run to predict the trajectory.
+3. Legacy data of each stock will also be displayed.
+
+Persona:
+
+Projected is targeted at a common user who has a web access.
+
+DataSet Links :
+
 
 
 
