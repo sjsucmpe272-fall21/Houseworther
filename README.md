@@ -17,8 +17,9 @@ Approach:
 5) Trained models would be then used for predictions.
 6) Accuracy would be calculated of the trained models using real-time and testing datasets.
 
+Persona:
 
-Persona
+
 This project is intended to help the State of California fight this crisis. Hence it's targeted to be used by California state authorities and the US government.
 Dataset links
 https://catalog.data.gov/dataset/large-fire-perimeters-5000-acres
