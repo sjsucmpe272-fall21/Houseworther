@@ -52,5 +52,27 @@ Projected is targeted at a common user who has a web access.
 DataSet Links : https://www.kaggle.com/uciml/istanbul-stock-exchange
 
 
+**Place Safety Prediction**
 
+Introduction to the problem statement:
 
+	California homicides jump 31% in 2020, reaching highest total in 13 years. Besides homicide incidents, there are lot of incidents reported related to mugging especially in downtown areas. It is very important for general public to have a fair estimation about the safety of a location before a visit.
+Abstract:
+
+Our web-application will solve this problem by providing users a dashboard with previous year statistics and a risk prediction based on previous years’ crime statistics, time of the day, crowd density. Crowd density is calculated using video surveillance footage fed to backend servers. The servers will use python models to count the number of people in a given location. This data along with other crime statistics will give predictions to users. This will help users to avoid going to high-risk areas at a particular time of the day. 
+
+Approach:
+
+1.	Video surveillance data will be collected from multiple sources and it is processed to count number of people in any given area.
+2.	The model then will predict whether the location is crowded, less-crowded or deserted.
+3.	Using the previous years’ crime statistics, time of the day, based on the crowd density, ML model will predict the risk of going to that location.
+4.	Front end web application will be developed to present users with a dashboard to see the risk predictions and previous years’ data to make an informed decision.
+
+Persona
+
+	General public
+  
+Dataset links
+https://data.world/health/violent-crime-rate-california/workspace/file?filename=rows.csv
+https://www.kaggle.com/fbi-us/california-crime
+https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/california.xls
