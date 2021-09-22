@@ -49,7 +49,7 @@ Persona:
 
 Projected is targeted at a common user who has a web access.
 
-DataSet Links :
+DataSet Links : https://www.kaggle.com/uciml/istanbul-stock-exchange
 
 
 
