@@ -29,6 +29,9 @@ https://catalog.data.gov/dataset/small-fire-perimeters-5000-acres
 https://www.timeanddate.com/weather/usa/chico/historic?month=11&year=2018
 
 
+
+
+
 2.**Stocks Reader**
 
 Introduction :
@@ -52,6 +55,9 @@ Persona:
 Projected is targeted at a common user who has a web access.
 
 DataSet Links : https://www.kaggle.com/uciml/istanbul-stock-exchange
+
+
+
 
 
 3.**Place Safety Prediction**
