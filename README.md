@@ -21,7 +21,9 @@ Persona:
 
 
 This project is intended to help the State of California fight this crisis. Hence it's targeted to be used by California state authorities and the US government.
-Dataset links
+
+
+Dataset links:
 https://catalog.data.gov/dataset/large-fire-perimeters-5000-acres
 https://catalog.data.gov/dataset/small-fire-perimeters-5000-acres
 https://www.timeanddate.com/weather/usa/chico/historic?month=11&year=2018
@@ -69,11 +71,12 @@ Approach:
 3.	Using the previous years’ crime statistics, time of the day, based on the crowd density, ML model will predict the risk of going to that location.
 4.	Front end web application will be developed to present users with a dashboard to see the risk predictions and previous years’ data to make an informed decision.
 
-Persona
+Persona:
 
 General public
+
   
-Dataset links
+Dataset links:
 https://data.world/health/violent-crime-rate-california/workspace/file?filename=rows.csv
 https://www.kaggle.com/fbi-us/california-crime
 https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/california.xls
