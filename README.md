@@ -1,6 +1,8 @@
 # Team-Project-5
 
 **California forest fire detection**
+
+
 Introduction:
 Over the last few years, California is facing a huge natural threat from wildfires. Millions of acres of land burnt in days. This has led to unprecedented environmental and economical damages. In this project, we will try to predict if the area is prone to forest fires based on various environmental factors such as windspeeds, humidity level, minimum and maximum temperatures, and many more.
 
