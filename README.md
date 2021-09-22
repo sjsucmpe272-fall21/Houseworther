@@ -1,6 +1,6 @@
 # Team-Project-5
 
-**California forest fire detection**
+1. **California forest fire detection**
 
 
 Introduction:
@@ -27,7 +27,7 @@ https://catalog.data.gov/dataset/small-fire-perimeters-5000-acres
 https://www.timeanddate.com/weather/usa/chico/historic?month=11&year=2018
 
 
-**Stocks Reader**
+2.**Stocks Reader**
 
 Introduction :
 
@@ -52,11 +52,12 @@ Projected is targeted at a common user who has a web access.
 DataSet Links : https://www.kaggle.com/uciml/istanbul-stock-exchange
 
 
-**Place Safety Prediction**
+3.**Place Safety Prediction**
 
 Introduction to the problem statement:
 
-	California homicides jump 31% in 2020, reaching highest total in 13 years. Besides homicide incidents, there are lot of incidents reported related to mugging especially in downtown areas. It is very important for general public to have a fair estimation about the safety of a location before a visit.
+California homicides jump 31% in 2020, reaching highest total in 13 years. Besides homicide incidents, there are lot of incidents reported related to mugging especially in downtown areas. It is very important for general public to have a fair estimation about the safety of a location before a visit.
+
 Abstract:
 
 Our web-application will solve this problem by providing users a dashboard with previous year statistics and a risk prediction based on previous years’ crime statistics, time of the day, crowd density. Crowd density is calculated using video surveillance footage fed to backend servers. The servers will use python models to count the number of people in a given location. This data along with other crime statistics will give predictions to users. This will help users to avoid going to high-risk areas at a particular time of the day. 
@@ -70,7 +71,7 @@ Approach:
 
 Persona
 
-	General public
+General public
   
 Dataset links
 https://data.world/health/violent-crime-rate-california/workspace/file?filename=rows.csv
