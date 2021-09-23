@@ -52,7 +52,7 @@ Approach:
 
 Persona:
 
-Projected is targeted at a common user who has a web access.
+Project is targeted at a common user who has a web access.
 
 DataSet Links : https://www.kaggle.com/uciml/istanbul-stock-exchange
 
@@ -84,5 +84,7 @@ General public
   
 Dataset links:
 https://data.world/health/violent-crime-rate-california/workspace/file?filename=rows.csv
+
 https://www.kaggle.com/fbi-us/california-crime
+
 https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/table-8/table-8-state-cuts/california.xls
