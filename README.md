@@ -20,8 +20,8 @@ Approach:
 Persona:
 This project is intended to help the potential real estate buyers and sellers determine the correct price of the house as per the current attributes of the house.
 
-
-
+DataSet:
+https://www.kaggle.com/paultimothymooney/zillow-house-price-data?select=City_MedianRentalPrice_1Bedroom.csv
 
 
 
