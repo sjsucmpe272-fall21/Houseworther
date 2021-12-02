@@ -18,7 +18,7 @@ Approach:
 6) Accuracy would be calculated of the trained models using real-time and testing datasets.
 
 Persona:
-This project is intended to help the potential real estate buyers and sellers determine the correct price of the house as per the current attributes of the house.
+This project is intended to help the potential real estate buyers and sellers determine the correct prices of the house as per the current attributes of the house.
 
 DataSet:
 https://www.kaggle.com/paultimothymooney/zillow-house-price-data?select=City_MedianRentalPrice_1Bedroom.csv
