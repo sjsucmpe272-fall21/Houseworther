@@ -11,9 +11,9 @@ Real estate has been one of the hottest investment commodity for the investors a
 
 Approach:
 1) Data will be collected from several secure and verified sites.
-2) Dimensionality reduction will be done using algorithms like pca or svd to identify the optimum number of features required to represent 80-90% of the variance in the dataset
-3) Data will be cleaned for outliers, noise cancellation, dimensionality reduction(if needed), and for missing values 
-4) Machine learning models would then be trained for the collected dataset
+2) Dimensionality reduction will be done using algorithms like pca or svd to identify the optimum number of features required to represent 80-90% of the variance in the dataset.
+3) Data will be cleaned for outliers, noise cancellation, dimensionality reduction(if needed), and for missing values.
+4) Machine learning models would then be trained for the collected dataset.
 5) Trained models would be then used for predictions.
 6) Accuracy would be calculated of the trained models using real-time and testing datasets.
 
